@@ -6,3 +6,17 @@ sky:
     database: sky_take_out
     username: root
     password: Zdx08080.
+  wechat:
+    appid: wxafc93b6565fd4601
+    secret: 513055e5e18b317c3e1d894fd01a72fe
+
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tBc2F1536XzGNY2iETF
+    access-key-secret: wq7mkhqJ2A2RXt9dOEMWyF1SmfyTvt
+    bucket-name: sky-take-out-lianci
+
+  redis:
+    host: localhost
+    port: 6379
+    password: Zdx08080.
