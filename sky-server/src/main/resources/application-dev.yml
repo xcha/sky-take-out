@@ -9,6 +9,7 @@ sky:
   wechat:
     appid: wxafc93b6565fd4601
     secret: 513055e5e18b317c3e1d894fd01a72fe
+    notifyUrl: http://1199151e.r21.vip.cpolar.cn
 
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
@@ -20,3 +21,9 @@ sky:
     host: localhost
     port: 6379
     password: Zdx08080.
+
+  shop:
+    address: 福建省莆田市城厢区莆田学院
+
+  baidu:
+    ak: SVrWE653KCMtwnb8UwR39CSYMH5EK4Vq
